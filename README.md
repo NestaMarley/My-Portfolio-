@@ -55,7 +55,7 @@
 
         /* Headings */
         h2 {
-            color: #C0392B; /* A rich red to convey passion and creativity */
+            color: #C0392B; 
         }
 
         /* Buttons */
@@ -127,7 +127,7 @@
 
 <header>
     <h1>Austin Masaba </h1>
-    <img src="YOUR_IMAGE_LINK" alt="My Profile Picture" class="profile">
+    <img src="1732421582506.jpg" alt="My Profile Picture" class="profile">
 </header>
 
 <div class="upper-section">
